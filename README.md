@@ -18,7 +18,7 @@ lose at scrabble!
 
 1. Click the green "Code" button
 2. Click download zip or open your Terminal and paste
-'git@github.com:alvin-tu/scrabble-solver.git'
+`git@github.com:alvin-tu/scrabble-solver.git`
 3. Extract the files
 
 ## Note
