@@ -21,9 +21,7 @@ lose at scrabble!
 `git clone git@github.com:alvin-tu/scrabble-solver.git`
 3. Extract the files
 
-## Note
 
-This is my first time uploading a porject I've done before. Any feedback would be greatly appreciated! 
 
 
 
